@@ -1,0 +1,2 @@
+# cryptocurrencies
+This is a complete upload of an analysis of cryptocurrency data. In this notebook I've firstly looked at data regarding bitcoin prices longitudinally from different exchanges, and then drawn down data from other cryptocurrencies to understand (1) how they compare in terms of comparative pricing, (2) whether there is anything in the data that suggests that cryptocurrency movement in the market has a relationship.
